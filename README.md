@@ -1,7 +1,9 @@
 # openstack
 Local folder
 ➜  how to  ls
-API                                                                      how to check service VIP.docx                     how to find VIP
+API                                                                     I
+ how to check service VIP.docx
+how to find VIP
 Bug #1407592 “Snapshots fail to upload larger (_30G+) images, wi...pdf   how to shutdown openstack env.txt
 CPU                                                                      how to upload sosreport to canonical.txt
 Ceph-YJ                                                                  how to use wonderbuild.txt
